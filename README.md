@@ -1,5 +1,5 @@
 # Workshop 2
-<p>This is a description of this project.</p>
+<p>Workshop 2 description, creating "my first GIT repository".</p>
 
 ### Install Instructions
 1. Create the GIT repository and clone it down:
@@ -32,6 +32,6 @@ node index.js</p>
 | Week 7        |        Working on Assignment Phase 1 |
 | Week 8        |        Week 8 - NoSQL Database and MongoDB |
 | Week 9        |        Week 9 - MongoDB via NodeJS and Angular |
-| Week 10        |        Week 10 - Unit and Integration Testing |
-| Week 11        |        Week 11 - End-to-End Testing |
-| Week 12        |        Assignment Phase 2 Demonstration |
+| Week 10       |        Week 10 - Unit and Integration Testing |
+| Week 11       |        Week 11 - End-to-End Testing |
+| Week 12       |        Assignment Phase 2 Demonstration |
